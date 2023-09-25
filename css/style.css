@@ -21,6 +21,10 @@ header img {
     margin-top: 80px;
 }
 
+main {
+    margin: 10px;
+}
+
 #title {
     font-size: 40px;
 }
@@ -99,6 +103,7 @@ h2 {
 
 footer {
     position: relative;
+    margin: 10px;
     
 }
 
