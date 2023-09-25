@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    background-color: #f3f3f3;
+}
+
+header {
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    height: 180px;
+}
+
+header img {
+    width: 20%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-top: 80px;
+}
+
+main {
+    margin: 10px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+}
+
+#title {
+    font-size: 40px;
+}
+
+#title h1 {
+    margin-bottom: 0px;
+}
+
+#info-article {
+    color: #aeaeae;
+    font-weight: bold;
+}
+
+#author {
+    color: #4ab9ea;
+}
+
+#info-author {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#date {
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.table {
+    border-collapse: collapse;
+    margin-top: 35px;
+    background-color: #f3f3f3;
+}
+
+#t-head {
+    color: white;
+    background-color: #333;
+    font-weight: bold;
+    text-align: left;
+}
+
+.th-1 {
+    width: 25%;
+    padding: 10px;
+}
+
+.tr-odd {
+    background-color: #ddd;
+}
+
+article {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+ul {
+    margin-top: 25px;
+    margin-left: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+#article-conclusion {
+    margin-top: 50px;
+}
+
+h2 {
+    color: #333;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.footer-img {
+    margin-bottom: 20px;
+}
+
+footer {
+    position: relative;
+    margin: 10px auto;
+    text-align: left;
+    background-color: #333;
+    color: white;
+}
+
+.text-container {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+.highlight {
+    background-color: yellow;
+}
