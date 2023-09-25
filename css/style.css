@@ -2,17 +2,61 @@ header {
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     height: 180px;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: flex-end; */
+    
 }
 
 header img {
-    
     width: 20%;
     height: auto;
-    align-self: flex-start;
+    /* align-self: flex-start; */
     margin-bottom: 20px;
     margin-left: 5px;
+    margin-top: 80px;
+}
+
+#title {
+    font-size: 40px;
+}
+
+#title h1 {
+    margin-bottom: 0px;
+}
+
+#info-article {
+    color: #aeaeae;
+    font-weight: bold;
+}
+
+#author {
+    color: #4ab9ea;
+}
+
+#info-author {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#date {
+    font-size: 12px;
+    margin-top: 0;
+    
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+#t-head {
+    color: white;
+    background-color: #20a9e5;
+    font-weight: bold;
+    text-align: left;
+}
+
+.th-1 {
+    width: 25%;
+    
 }
