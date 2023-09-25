@@ -114,3 +114,7 @@ footer {
     font-weight: bold;
     padding: 10px;
 }
+
+.highlight {
+    background-color: yellow; /* You can use any color you prefer */
+}
