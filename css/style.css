@@ -1,0 +1,18 @@
+header {
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+header img {
+    
+    width: 20%;
+    height: auto;
+    align-self: flex-start;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
