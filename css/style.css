@@ -39,6 +39,7 @@ header img {
     margin-top: 0;
 }
 
+
 #date {
     font-size: 12px;
     margin-top: 0;
@@ -47,6 +48,7 @@ header img {
 
 .table {
     border-collapse: collapse;
+    margin-top: 35px;
 }
 
 #t-head {
@@ -60,3 +62,20 @@ header img {
     width: 25%;
     
 }
+
+.tr-odd {
+    background-color: #b1e5f2;
+}
+
+article {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+ul {
+    margin-top: 25px;
+    margin-left: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
